@@ -1,7 +1,7 @@
 #!/bin/bash
 # Fecha de escritura: 22/10/2026
 # Autor: Camila Roman
-# Descripción: Script para ordenar los datos del proyecto KPC
+# Descripción: Fase 2- Script para ordenar los datos del proyecto KPC
 
 PROYECTO="operacion_KPC"
 
