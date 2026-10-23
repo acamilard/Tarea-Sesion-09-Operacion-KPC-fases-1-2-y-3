@@ -1,5 +1,5 @@
 #!/bin/bash
-# Fecha: 22/10/2026
+# Fecha: 23/10/2026
 # Autora: Camila Roman
 # Descripción: Fase 1 - Informe de reconocimiento del servidor
 
