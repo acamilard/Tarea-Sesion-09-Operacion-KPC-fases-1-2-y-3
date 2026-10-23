@@ -1,4 +1,8 @@
-   
+#!/bin/bash
+# Fecha: 22/10/2026
+# Autora: Camila Roman
+# Descripción: Fase 3 - Interceptar secuencias
+
 #Imprime lo solicitado entre comillas dobles en la pantalla
 echo "============================================================================================="
 echo "                        🔏💻  INNFORME DE RECONOCIMIENTO DEL SERVIDOR                      "
