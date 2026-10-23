@@ -1,7 +1,7 @@
 #!/bin/bash
 # Fecha: 22/10/2026
 # Autora: Camila Roman
-# Descripción: Fase 3 - Interceptar secuencias
+# Descripción: Fase 1 - Informe de reconocimiento del servidor
 
 #Imprime lo solicitado entre comillas dobles en la pantalla
 echo "============================================================================================="
